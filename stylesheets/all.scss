@@ -1,0 +1,13 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+@import "./helps/variables";
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./components/header";
+@import "./components/decoline";
+@import "./components/costom-bottom";
+
+
+@import "./helps/utilities";
